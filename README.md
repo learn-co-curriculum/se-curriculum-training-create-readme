@@ -175,6 +175,8 @@ module:
 - Select your lesson
 - Click "Add Item"
 
+[Adding page to module](https://curriculum-content.s3.amazonaws.com/curriculum-training/create-readme/canvas-add-page.png)
+
 We'll also add a [module requirement][] for the lesson. This is a required step
 for all lessons that will allow students to keep track of which lessons they've
 completed. To add a module requirement:
@@ -186,14 +188,16 @@ completed. To add a module requirement:
   requirement
 - Click "Update Module"
 
+[Adding a requirement](https://curriculum-content.s3.amazonaws.com/curriculum-training/create-readme/canvas-add-requirement.png)
+
 Now when a student views this lesson in Canvas, it will be marked as complete.
 
 You can verify that this worked successfully by checking if "View" is listed
 under the lesson title in the module.
 
-Nice work!
+[Module requirement validation](https://curriculum-content.s3.amazonaws.com/curriculum-training/create-readme/canvas-module-requirement-validation.png)
 
-<!-- TODO: add images -->
+Nice work!
 
 ## Conclusion
 
