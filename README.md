@@ -44,11 +44,11 @@ Starter code for these files are available in this repository:
 
 - [readme template](https://github.com/learn-co-curriculum/se-curriculum-templates/tree/main/readme)
 
-Copy these files into your new directory. Make one change to the `README.md`
-file, and edit the top-level heading to:
+Copy these files into your new directory. Change the top-level heading of the
+`README.md` file to:
 
 ```md
-# Your Name's First Readme
+# Your Name First Readme
 ```
 
 Commit your changes:
@@ -175,7 +175,7 @@ module:
 - Select your lesson
 - Click "Add Item"
 
-![Adding page to module](https://curriculum-content.s3.amazonaws.com/curriculum-training/create-readme/canvas-add-page.png)
+![Adding page to module](https://curriculum-content.s3.amazonaws.com/curriculum-training/create-readme/canvas-add-page-new.png)
 
 We'll also add a [module requirement][] for the lesson. This is a required step
 for all lessons that will allow students to keep track of which lessons they've
@@ -188,14 +188,14 @@ completed. To add a module requirement:
   requirement
 - Click "Update Module"
 
-![Adding a requirement](https://curriculum-content.s3.amazonaws.com/curriculum-training/create-readme/canvas-add-requirement.png)
+![Adding a requirement](https://curriculum-content.s3.amazonaws.com/curriculum-training/create-readme/canvas-add-requirement-new.png)
 
 Now when a student views this lesson in Canvas, it will be marked as complete.
 
 You can verify that this worked successfully by checking if "View" is listed
 under the lesson title in the module.
 
-![Module requirement validation](https://curriculum-content.s3.amazonaws.com/curriculum-training/create-readme/canvas-module-requirement-validation.png)
+![Module requirement validation](https://curriculum-content.s3.amazonaws.com/curriculum-training/create-readme/canvas-module-requirement-validation-new.png)
 
 Nice work!
 
@@ -207,4 +207,4 @@ pushed the lesson to Canvas, and added it to a module.
 [github action]: https://github.com/features/actions
 [course homepage]: https://learning.flatironschool.com/courses/5465
 [module requirement]:
-  https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-add-requirements-to-a-module/ta-p/1131
+https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-add-requirements-to-a-module/ta-p/1131
